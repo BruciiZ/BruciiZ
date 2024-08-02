@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BruciiZ, a senior student at Duke Kunshan University (https://www.dukekunshan.edu.cn/) majoring in Data Science.
-- 👀 I’m interested in statistical modeling, statistical computing, and their application in public health. I wish to transform people's life with insight into real-world data.
+- 👋 Hi, I’m @BruciiZ, a recent graduate from Duke Kunshan University (https://www.dukekunshan.edu.cn/) majoring in Data Science. I am now pursuing a master's degree in computational biology and quantitative genetics at Harvard.
+- 👀 I’m interested in statistical modeling, statistical computing, and their application in public health. I wish to transform people's lives with insight into real-world data.
 - 🌱 I’m currently learning various statistical models.
-- 📫 You can reach out to me via hz237[@]duke.edu.
+- 📫 You can reach out to me via huiyuan.zhou237[@]gmail.com
 
 <!---
 BruciiZ/BruciiZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
